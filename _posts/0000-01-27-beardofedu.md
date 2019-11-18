@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
-Caption here
+That new Mandalorian show is really great! 
 
-![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+![jedi-octocat](https://octodex.github.com/images/octobiwan.jpg)
 {: .center}
