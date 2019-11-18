@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Leave the gun, take the cannoli
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
