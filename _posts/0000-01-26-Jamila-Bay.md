@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Welcome to my GitHub!
 
-![catstello](https://octodex.github.com/images/catstello.png)
+![mona-lovelace](https://octodex.github.com/images/catstello.png)
 {: .center}
